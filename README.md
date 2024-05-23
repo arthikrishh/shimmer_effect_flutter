@@ -1,7 +1,5 @@
 # Flutter Shimmer Effect App
 
-![Flutter Logo](https://flutter.dev/assets/homepage/logo-google-2be0ef1f10960bdd6564699bf1079f85c1d50e12de37e2e2e6d18bfc74a0f29d.svg)
-
 ## Overview
 
 This Flutter application demonstrates the implementation of a shimmer effect, a popular UI enhancement technique used to indicate loading or content fetching in mobile apps. The app displays a list of items with a shimmering placeholder effect while the content is loading, providing users with a visually appealing experience.
